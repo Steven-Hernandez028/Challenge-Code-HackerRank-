@@ -1,4 +1,3 @@
-import { birthdayCakeCandles } from "./easy/birthdayCakeCandles";
+import { plusMinus } from "./easy/plusMinus";
 
-console.log(birthdayCakeCandles([1,3,8,8,3
-]));
+plusMinus([-4, 3, -9, 0, 4, 1]);
