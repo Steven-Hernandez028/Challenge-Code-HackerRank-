@@ -1,3 +1,3 @@
-import { plusMinus } from "./easy/plusMinus";
+import { timeConversion } from "./easy/timeConversion";
 
-plusMinus([-4, 3, -9, 0, 4, 1]);
+console.log(timeConversion('01:01:00PM'));
