@@ -1,3 +1,4 @@
-import { timeConversion } from "./easy/timeConversion";
+import { practice } from "./practice";
 
-console.log(timeConversion('01:01:00PM'));
+practice();
+console.log();
